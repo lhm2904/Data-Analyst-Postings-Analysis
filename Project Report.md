@@ -695,7 +695,7 @@ In total, 1,283 companies posted data analyst positions in 2023 and 2024, showin
 - **Staffing & recruitment:** Insight Global, Inc., Apex Systems, Upwork, Talentify, The Elite Job
 - **Government:** Saint Louis County Clerks Office, Maximus Services, LLC.
 - **Pharmaceuticals:** AbbVie
-- **Retaile:** Walmart
+- **Retail:** Walmart
 - **Communications and media:** Cox Enterprises
 
 Upwork had the highest number of postings at 1,349. Given that Upwork is a freelancing platform, this indicates that contract-based or commissioned data analysis work was the most popular method of hiring in the field.
@@ -721,12 +721,12 @@ ORDER BY median_sal DESC;
 
 ![Median salary by company top 10](assets/median_sal_comp.png)
 
-The median salaries showed a right-skewed patter with a skewness of 1.54, which can be seen in the histogram, where the data points clustered to the lower end. Overall, the most popular median salary range falls between $70,000 and $103,000, which aligns with our findings in salary distribution.
+The median salaries showed a right-skewed pattern with a skewness of 1.54, which can be seen in the histogram, where the data points clustered to the lower end. Overall, the most popular median salary range falls between $70,000 and $103,000, which aligns with our findings in salary distribution.
 
 Among the highest-paying companies, there were 2 main sectors:
 - **Staffing and recruitment:** KDR Talent Solutions, ITCO Solutions, My3Tech.
 - **Finance:** PCS Retirement, Balyasny Asset Management, Quanata.
-Other companies are in healthcare, logistics, IT, and retail. In general, the finance sector lead in compensation, with the top two roles at $434,500 and $250,000. 
+Other companies are in healthcare, logistics, IT, and retail. In general, the finance sector led in compensation, with the top two roles at $434,500 and $250,000. 
 
 ### Preferred platforms of companies
 
@@ -855,7 +855,7 @@ ORDER BY year, month;
 
 ![Hiring trend of top platforms](assets/hiring_trend_platforms.png)
 
-This part analyzes the 4 companies with the highest total job postings in 2023 and 2024: Upwork, LinkedIn, ZipRecruiter, and Indeed. Overall, job recruitment activity among the companies was significantly higher in 2023 than 2024, which had a clear trend downwards. Most postings occurred between January and April, after which they started to slow down.
+This part analyzes the 4 platforms with the highest total job postings in 2023 and 2024: Upwork, LinkedIn, ZipRecruiter, and Indeed. Overall, job recruitment activity among the platforms was significantly higher in 2023 than 2024, which had a clear trend downwards. Most postings occurred between January and April, after which they started to slow down.
 
 - Upwork: Started strong in 2023, fluctuated mid-year, then reached its peak in September and October and declined vastly through December. General downward trend in 2024, reaching the lowest in December with 3 postings.
 - LinkedIn: Began high in January and gradually declined for the rest of the year, except for a sudden spike in October to 70 postings. Similar trend in 2024 with a sharp increase in June to 98.
@@ -935,7 +935,7 @@ ORDER BY median_sal DESC;
 
 From the median salaries across the 13 states, there is a disparity in pay indicated by a standard deviation of $26,183 and a median of $90,000. West Virginia reported the highest median pay of $135,000, and Nebraska the lowest at $35,797. However, these two states only had one posting, so the figures are not representative of their regional pay level.
 
-Among the three states with the most postings, Oklahoma and Kansas offered salaries above the median value at $96,500, whereas Missouri have a significantly lower pay at only $51,757. Oklahoma and Kansas may be the most ideal locations for data analyst job seekers as they offer competitive salaries and high volume of recruitment opportunities.
+Among the three states with the most postings, Oklahoma and Kansas offered salaries above the median value at $96,500, whereas Missouri had a significantly lower pay at only $51,757. Oklahoma and Kansas may be the most ideal locations for data analyst job seekers as they offer competitive salaries and high volume of recruitment opportunities.
 
 Other relatively high-paying states include Arkansas, Colorado and Texas, but they offer much fewer job opportunities. In general, there seems to be no correlation between the number of postings and the median pay levels of a region.
 
