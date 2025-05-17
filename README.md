@@ -15,7 +15,7 @@ This project analyzes job postings for data analyst roles in the United States d
 
 - **PostgreSQL** – For data cleaning, transformation, querying, and statistical analysis.
 - **Excel** – For charts, dashboards, and visual exploration of trends.
-- **Lucidspark** – For designing the Entity Relationship Diagram (ERD) of the normalized database schema.
+- **Lucidchart** – For designing the Entity Relationship Diagram (ERD) of the normalized database schema.
 
 ## Data Overview
 
