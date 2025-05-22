@@ -531,7 +531,7 @@ GROUP BY job_level
 ORDER BY count DESC;
 ```
 
-![Job level distribution](job_level_distribution.png)
+![Job level distribution](assets/job_level_distribution.png)
 
 Among the postings that specified a job level, Senior emerged as the leading role, accounting for over 70% of the total. Lead and Intern followed, each appearing in over 90 listings.
 
